@@ -1,0 +1,29 @@
+{
+  "name": "social-media-app",
+  "version": "0.0.1",
+  "description": "social media app CA for Noroff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tactikerl/SASS-SCSS.CA.git"
+  },
+  "keywords": [
+    "social",
+    "media",
+    "bootstrapp",
+    "sass"
+  ],
+  "author": "Karl-Morten Kvammen <karlmkvammen@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tactikerl/SASS-SCSS.CA/issues"
+  },
+  "homepage": "https://github.com/Tactikerl/SASS-SCSS.CA#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "sass": "^1.54.7"
+  }
+}
